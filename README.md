@@ -1,4 +1,4 @@
-# stock-app
+# Food-Wheels
 
 ## Project setup
 ```
